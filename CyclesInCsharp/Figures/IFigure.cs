@@ -10,5 +10,6 @@ namespace CyclesInCsharp.Figures
     {
         public void SetInputSize();
         public void PrintFigure();
+        public void PrintFigureArea();
     }
 }
